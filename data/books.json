@@ -1,0 +1,122 @@
+[
+  {
+    "id": "B8718636-01D4-4589-88CD-325B9759B43E",
+    "title": "幼儿启蒙古诗精选100首",
+    "author": "昊福文化",
+    "publisher": " 广西师范大学出版社",
+    "cover": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/jingxuan100shou.jpg",
+    "icon": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/jingxuan100shou.icon.jpg",
+    "poems": []
+  },
+  {
+    "id": "6138e9ec-5a69-4e1f-b7d0-44a4eb8b29c8",
+    "title": "中华经典资源库",
+    "author": "方明、雅坤等",
+    "publisher": "人民教育出版社",
+    "cover": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/zhonghuajingdian.jpg",
+    "icon": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/zhonghuajingdian.icon.jpg",
+    "poems": []
+  },
+  {
+    "id": "72EF90FA-3DD3-416C-94BC-85381D268704",
+    "title": "聆听美丽的汉字",
+    "author": "智慧轩文化",
+    "publisher": "中国和平出版社",
+    "cover": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/lingtingmeilidehanzi.jpg",
+    "icon": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/lingtingmeilidehanzi.icon.jpg",
+    "groups": [
+      { "name": "第一册", "poems": [] },
+      { "name": "第二册", "poems": [] },
+      { "name": "第三册", "poems": [] },
+      { "name": "第四册", "poems": [] },
+      { "name": "第五册", "poems": [] },
+      { "name": "第六册", "poems": [] },
+      { "name": "第七册", "poems": [] },
+      { "name": "第八册", "poems": [] },
+      { "name": "第九册", "poems": [] },
+      { "name": "第十册", "poems": [] }
+    ]
+  },
+  {
+    "id": "658d8a08-6120-4127-9167-7d836d4d99d1",
+    "title": "凯叔选给孩子的99首古诗",
+    "author": "凯叔",
+    "publisher": "中信出版社",
+    "cover": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/kaishu-shi.jpg",
+    "icon": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/kaishu-shi.icon.jpg",
+    "poems": []
+  },
+  {
+    "id": "715944e8-027d-47ca-b00f-8433924d9b5f",
+    "title": "唐诗三百首",
+    "subtitle": "儿童注音美绘本",
+    "author": "思睿",
+    "publisher": "北方妇女儿童出版社",
+    "cover": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/tangshi300shou.jpg",
+    "icon": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/tangshi300shou.icon.jpg",
+    "poems": []
+  },
+  {
+    "id": "77f64eb2-9328-4884-b463-f1ea89e15a2f",
+    "title": "圆梦古诗词卡片",
+    "author": "婷婷",
+    "publisher": "唱道文化传播有限公司",
+    "cover": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/yuanmeng.jpg",
+    "icon": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/yuanmeng.icon.jpg",
+    "poems": []
+  },
+  {
+    "id": "1DFA7AC5-3687-414F-BC48-495C4742526C",
+    "title": "凯叔选给孩子的99首词",
+    "author": "凯叔",
+    "publisher": "云南美术出版社",
+    "cover": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/kaishu-ci.jpg",
+    "icon": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/kaishu-ci.icon.jpg",
+    "poems": []
+  },
+  {
+    "id": "3FF522C1-52B3-429D-8A04-F4EC7EBAB3C0",
+    "title": "给孩子的唯美唐诗",
+    "author": "张欣卉",
+    "publisher": "青岛出版社",
+    "cover": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/geihaizideweimeitangshi.jpg",
+    "icon": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/geihaizideweimeitangshi.icon.jpg",
+    "poems": []
+  },
+  {
+    "id": "9A104812-6540-403A-A9C5-2FA90043D1F0",
+    "title": "小学语文统编版",
+    "author": "教育部",
+    "publisher": "人民教育出版社",
+    "cover": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/yuwen.jpg",
+    "icon": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/yuwen.icon.jpg",
+    "groups": []
+  },
+  {
+    "id": "09C2527B-72C5-4BC9-83CD-FADD72A7BF88",
+    "title": "小学生必背古诗词75首",
+    "author": "中华书局编辑部",
+    "publisher": "中华书局",
+    "cover": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/xiaoxueshengbibeigushici.jpg",
+    "icon": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/xiaoxueshengbibeigushici.icon.jpg",
+    "poems": []
+  },
+  {
+    "id": "53C4FBAD-4D04-4B50-B335-EBDD7C0E8CC2",
+    "title": "麦芽童书 幼读诗词",
+    "author": "杨易",
+    "publisher": "北方妇女儿童出版社",
+    "cover": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/youdushici.jpg",
+    "icon": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/maiya.icon.jpg",
+    "groups": []
+  },
+  {
+    "id": "a28d7fbb-ea89-42a1-81f3-d4b97373f8c3",
+    "title": "我会读古诗",
+    "author": "权惠娟",
+    "publisher": "未来出版社",
+    "cover": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/wohuidugushi.jpg",
+    "icon": "https://cdn.jsdelivr.net/gh/huajianmao/resources/images/books/wohuidugushi.icon.jpg",
+    "poems": []
+  }
+]
